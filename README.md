@@ -1,4 +1,4 @@
-# YOLOv3-tiny Object Detection 🚀
+# YOLOv3-tiny Object Detection 
 
 This repository contains a YOLOv3-tiny object detection project using **OpenCV DNN** and a **Streamlit app**.
 
